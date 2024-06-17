@@ -1,2 +1,2 @@
 # testing
-repo test
+repo testing
